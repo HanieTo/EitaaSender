@@ -1,0 +1,14 @@
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\eitaa_myself.exe
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\eitaa_myself.deps.json
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\eitaa_myself.runtimeconfig.json
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\eitaa_myself.dll
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\eitaa_myself.pdb
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.AssemblyInfoInputs.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.AssemblyInfo.cs
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.csproj.CoreCompileInputs.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.dll
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\refint\eitaa_myself.dll
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.pdb
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\eitaa_myself.genruntimeconfig.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\ref\eitaa_myself.dll

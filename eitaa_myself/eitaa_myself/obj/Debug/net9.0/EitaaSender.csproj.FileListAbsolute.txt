@@ -1,0 +1,14 @@
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\EitaaSender.exe
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\EitaaSender.deps.json
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\EitaaSender.runtimeconfig.json
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\EitaaSender.dll
+D:\projects\eitaa_myself\eitaa_myself\bin\Debug\net9.0\EitaaSender.pdb
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.AssemblyInfoInputs.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.AssemblyInfo.cs
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.csproj.CoreCompileInputs.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.dll
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\refint\EitaaSender.dll
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.pdb
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\EitaaSender.genruntimeconfig.cache
+D:\projects\eitaa_myself\eitaa_myself\obj\Debug\net9.0\ref\EitaaSender.dll
